@@ -1,6 +1,6 @@
 # Transpose of a Matrix
 
-**Difficulty**: Easy | **Category**: Math
+**Difficulty**: Easy | **Category**: Uncategorized
 
 ## Description
 
