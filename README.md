@@ -7,3 +7,6 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 ### Linear Algebra
 - [Matrix-Vector Dot Product](./Matrix_Vector_Dot_Product)
 
+
+### Math
+- [Transpose of a Matrix](./Transpose_of_a_Matrix)
