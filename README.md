@@ -5,6 +5,7 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 ## Categories
 
 ### Linear Algebra
+- [Matrix times Matrix](./Matrix_times_Matrix)
 - [Calculate 2x2 Matrix Inverse](./Calculate_2x2_Matrix_Inverse)
 - [Matrix Transformation](./Matrix_Transformation)
 - [Calculate Eigenvalues of a Matrix](./Calculate_Eigenvalues_of_a_Matrix)
