@@ -14,3 +14,6 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 - [Reshape Matrix](./Reshape_Matrix)
 - [Matrix-Vector Dot Product](./Matrix_Vector_Dot_Product)
 - [Transpose of a Matrix](./Transpose_of_a_Matrix)
+
+### Statistics
+- [Calculate Covariance Matrix](./Calculate_Covariance_Matrix)
