@@ -21,3 +21,6 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 ### Machine Learning
 - [Linear Regression Using Gradient Descent](./Linear_Regression_Using_Gradient_Descent)
 - [Linear Regression Using Normal Equation](./Linear_Regression_Using_Normal_Equation)
+
+### Deep Learning
+- [Sigmoid Activation Function Understanding](./Sigmoid_Activation_Function_Understanding)
