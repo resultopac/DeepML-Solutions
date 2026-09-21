@@ -23,5 +23,6 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 - [Linear Regression Using Normal Equation](./Linear_Regression_Using_Normal_Equation)
 
 ### Deep Learning
+- [Single Neuron](./Single_Neuron)
 - [Softmax Activation Function Implementation](./Softmax_Activation_Function_Implementation)
 - [Sigmoid Activation Function Understanding](./Sigmoid_Activation_Function_Understanding)
