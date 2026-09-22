@@ -26,3 +26,6 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 - [Single Neuron](./Single_Neuron)
 - [Softmax Activation Function Implementation](./Softmax_Activation_Function_Implementation)
 - [Sigmoid Activation Function Understanding](./Sigmoid_Activation_Function_Understanding)
+
+### Calculus
+- [Derivative of a Polynomial](./Derivative_of_a_Polynomial)
