@@ -19,6 +19,7 @@ My solutions to problems on [Deep-ML](https://www.deep-ml.com/).
 - [Calculate Covariance Matrix](./Calculate_Covariance_Matrix)
 
 ### Machine Learning
+- [Calculate Accuracy Score](./Calculate_Accuracy_Score)
 - [Linear Regression Using Gradient Descent](./Linear_Regression_Using_Gradient_Descent)
 - [Linear Regression Using Normal Equation](./Linear_Regression_Using_Normal_Equation)
 
